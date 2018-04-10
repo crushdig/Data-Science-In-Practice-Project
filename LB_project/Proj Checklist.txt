@@ -18,7 +18,6 @@ Convert time_spent_chatting column to date time -------> pending
 
 Prep - Foreveralone
 
-
 Check for and remove columns and rows inconsequential to analysis -------> pending
 
 
