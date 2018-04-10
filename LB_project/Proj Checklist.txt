@@ -1,0 +1,25 @@
+Prep - Sex Work
+
+Load datasets -------> complete
+
+
+Check for and remove columns and rows inconsequential to analysis -------> complete
+
+
+Check for and remove garbage values -------> complete
+
+
+Convert member_since column to date time -------> complete
+
+
+Convert time_spent_chatting column to date time -------> pending
+
+
+
+Prep - Foreveralone
+
+
+Check for and remove columns and rows inconsequential to analysis -------> pending
+
+
+Check for and remove garbage values -------> pending
