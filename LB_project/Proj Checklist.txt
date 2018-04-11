@@ -18,7 +18,10 @@ Convert time_spent_chatting column to date complete-----> pending
 
 Prep - Foreveralone
 
-Check for and remove columns and rows inconsequential to analysis -------> pending
+Check for and remove columns and rows inconsequential tcompletesis -------> pending
 
 
-Check for and remove garbage values -------> pending
+Check for and remove gcomplete
+
+
+Analysis - Research Questionsvalues -------> pending
