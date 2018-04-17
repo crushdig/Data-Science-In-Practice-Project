@@ -12,16 +12,33 @@ Check for and remove garbage values -------> complete
 Convert member_since column to date time -------> complete
 
 
-Convert time_spent_chatting column to date complete-----> pending
+Convert time_spent_chatting column to date ccomplete
+
+
+Change Age column to float ------> complete
+
+
+Change total_chat_time to timedelta ------> complete----> pending
 
 
 
 Prep - Foreveralone
 
-Check for and remove columns and rows inconsequential tcompletesis -------> pending
+/editCheck for and remove columns and rto analysequential tccompletesis -------> pending
+
+arbage values -------> 
+Check f
 
 
-Check for and remove gcomplete
+Change social_fear, prostitution legal to boolean -------> complete o
+r and remove gcomplete
 
 
-Analysis - Research Questionsvalues -------> pending
+Ana
+
+How sexual polarity affects social circle -------> complete
+
+
+How sexual orientation affects sexual behaviour -------> pending
+
+    ---< groupby orientation, gender, friends, age, riskonsvalues -------> pending
