@@ -1,470 +1,470 @@
-,gender,sexuallity,age,race,bodyweight,virgin,prostitution_legal,pay_for_sex,friends,social_fear,edu_level
-0,Male,Straight,35,White non-Hispanic,Normal weight,Yes,No,No,0,Yes,Associate degree
-1,Male,Bisexual,21,White non-Hispanic,Underweight,Yes,No,No,0,Yes,"Some college, no degree"
-2,Male,Straight,22,White non-Hispanic,Overweight,Yes,No,No,10,Yes,"Some college, no degree"
-3,Male,Straight,19,White non-Hispanic,Overweight,Yes,Yes,No,8,Yes,"Some college, no degree"
-4,Male,Straight,23,White non-Hispanic,Overweight,No,No,Yes and I have,10,No,"High school graduate, diploma or the equivalent (for example: GED)"
-5,Male,Straight,24,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,2,Yes,Bachelor’s degree
-6,Male,Straight,22,White non-Hispanic,Underweight,Yes,No,No,2,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-7,Female,Gay/Lesbian,24,White non-Hispanic,Normal weight,Yes,No,No,10,Yes,Trade/technical/vocational training
-8,Male,Straight,20,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,0,Yes,"Some college, no degree"
-9,Male,Straight,33,White non-Hispanic,Overweight,No,No,Yes but I haven't,6,Yes,Master’s degree
-10,Female,Straight,32,Hispanic (of any race),Overweight,Yes,No,No,5,No,Bachelor’s degree
-11,Male,Straight,25,Asian,Normal weight,Yes,No,No,0,Yes,"Some college, no degree"
-12,Male,Straight,24,White non-Hispanic,Normal weight,No,No,Yes but I haven't,20,No,"Some college, no degree"
-13,Female,Straight,23,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,1,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-14,Male,Straight,22,Hispanic (of any race),Normal weight,Yes,No,Yes but I haven't,0,No,Bachelor’s degree
-15,Male,Straight,23,White non-Hispanic,Underweight,Yes,Yes,No,6,No,"High school graduate, diploma or the equivalent (for example: GED)"
-16,Female,Straight,29,white and asian,Normal weight,Yes,No,Yes but I haven't,5,Yes,Bachelor’s degree
-17,Male,Straight,21,Asian,Normal weight,No,No,No,12,No,Bachelor’s degree
-18,Male,Straight,17,White non-Hispanic,Overweight,Yes,Yes,No,5,Yes,"Some high school, no diploma"
-19,Male,Straight,29,caucasian,Normal weight,Yes,No,Yes but I haven't,1,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-20,Male,Straight,32,White non-Hispanic,Normal weight,Yes,Yes,No,10,Yes,Bachelor’s degree
-21,Female,Straight,20,White non-Hispanic,Normal weight,Yes,No,No,8,Yes,"Some college, no degree"
-22,Male,Straight,24,Hispanic (of any race),Normal weight,Yes,No,No,40,Yes,"Some high school, no diploma"
-23,Male,Straight,20,White non-Hispanic,Normal weight,Yes,No,No,10,No,Bachelor’s degree
-24,Male,Straight,21,White non-Hispanic,Normal weight,Yes,No,No,5,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-25,Female,Straight,17,White non-Hispanic,Underweight,Yes,No,No,5,Yes,"Some high school, no diploma"
-26,Male,Straight,24,White non-Hispanic,Normal weight,No,Yes,No,3,No,Trade/technical/vocational training
-27,Male,Straight,17,White non-Hispanic,Normal weight,Yes,No,No,5,Yes,"Some high school, no diploma"
-28,Female,Straight,28,Asian,Normal weight,Yes,Yes,No,1,Yes,Bachelor’s degree
-29,Male,Straight,19,White non-Hispanic,Underweight,Yes,No,No,0,Yes,"Some college, no degree"
-30,Male,Straight,17,Asian,Underweight,Yes,Yes,No,5,Yes,"Some high school, no diploma"
-31,Male,Straight,25,White non-Hispanic,Underweight,Yes,Yes,No,6,Yes,Bachelor’s degree
-32,Male,Straight,17,White non-Hispanic,Underweight,Yes,No,Yes but I haven't,5,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-33,Male,Straight,23,White non-Hispanic,Normal weight,No,No,Yes but I haven't,13,No,"High school graduate, diploma or the equivalent (for example: GED)"
-34,Male,Straight,26,White non-Hispanic,Overweight,Yes,No,No,6,No,"High school graduate, diploma or the equivalent (for example: GED)"
-35,Male,Straight,26,White non-Hispanic,Normal weight,No,No,No,3,Yes,Doctorate degree
-36,Male,Straight,23,White non-Hispanic,Normal weight,No,No,Yes but I haven't,15,Yes,Bachelor’s degree
-37,Male,Straight,25,Asian,Overweight,Yes,Yes,Yes but I haven't,8,Yes,Bachelor’s degree
-38,Male,Straight,18,White non-Hispanic,Normal weight,Yes,No,No,17,No,"Some college, no degree"
-39,Male,Straight,19,White non-Hispanic,Normal weight,No,No,No,40,No,Professional degree
-40,Male,Straight,19,Asian,Normal weight,Yes,No,No,15,No,Bachelor’s degree
-41,Female,Straight,55,White non-Hispanic,Overweight,No,No,No,0,No,Bachelor’s degree
-42,Male,Straight,35,White non-Hispanic,Normal weight,No,No,Yes but I haven't,5,No,Bachelor’s degree
-43,Male,Straight,24,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,2,No,"High school graduate, diploma or the equivalent (for example: GED)"
-44,Male,Straight,22,Black,Normal weight,Yes,No,No,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-45,Female,Straight,23,White non-Hispanic,Normal weight,Yes,No,No,1,Yes,Master’s degree
-46,Male,Straight,20,White non-Hispanic,Normal weight,Yes,No,No,5,No,"Some college, no degree"
-47,Male,Straight,25,White non-Hispanic,Underweight,Yes,No,No,0,Yes,"Some college, no degree"
-48,Male,Bisexual,18,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,10,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-49,Male,Straight,29,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,3,Yes,Bachelor’s degree
-50,Male,Bisexual,24,White non-Hispanic,Normal weight,Yes,Yes,No,1,Yes,"Some college, no degree"
-51,Female,Bisexual,23,White non-Hispanic,Normal weight,No,No,No,4,Yes,"Some college, no degree"
-52,Male,Straight,22,White non-Hispanic,Normal weight,Yes,No,No,3,Yes,"Some college, no degree"
-53,Male,Straight,25,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,6,No,Master’s degree
-54,Male,Straight,18,Black,Overweight,Yes,Yes,Yes but I haven't,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-55,Male,Straight,19,White non-Hispanic,Underweight,Yes,No,Yes but I haven't,10,Yes,"Some college, no degree"
-56,Male,Straight,33,Hispanic (of any race),Underweight,No,No,Yes but I haven't,7,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-57,Male,Straight,23,White non-Hispanic,Overweight,Yes,No,No,1,Yes,Bachelor’s degree
-58,Female,Straight,21,White non-Hispanic,Normal weight,Yes,No,No,0,Yes,"Some college, no degree"
-59,Male,Straight,22,Hispanic (of any race),Normal weight,Yes,Yes,No,1,Yes,Bachelor’s degree
-60,Male,Straight,24,White non-Hispanic,Overweight,Yes,No,No,20,No,Bachelor’s degree
-61,Transgender male,Straight,21,White non-Hispanic,Normal weight,Yes,Yes,No,4,Yes,"Some college, no degree"
-62,Male,Gay/Lesbian,25,White non-Hispanic,Normal weight,Yes,No,No,0,No,Bachelor’s degree
-63,Male,Straight,20,White non-Hispanic,Normal weight,Yes,Yes,Yes but I haven't,1,No,"High school graduate, diploma or the equivalent (for example: GED)"
-64,Male,Straight,16,White non-Hispanic,Underweight,Yes,No,Yes but I haven't,8,Yes,"Some high school, no diploma"
-65,Male,Straight,22,Middle Eastern,Normal weight,No,No,No,6,Yes,"Some college, no degree"
-66,Male,Straight,20,White non-Hispanic,Overweight,Yes,No,No,4,No,"Some college, no degree"
-67,Male,Straight,28,White non-Hispanic,Underweight,Yes,No,Yes but I haven't,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-68,Male,Straight,21,White non-Hispanic,Normal weight,Yes,No,No,0,Yes,"Some college, no degree"
-69,Male,Straight,24,Asian,Overweight,Yes,No,No,8,No,Master’s degree
-70,Male,Straight,38,White non-Hispanic,Overweight,No,No,No,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-71,Male,Straight,24,half Arab,Overweight,Yes,Yes,No,4,No,"High school graduate, diploma or the equivalent (for example: GED)"
-72,Female,Straight,26,White non-Hispanic,Underweight,Yes,No,No,5,Yes,Bachelor’s degree
-73,Male,Straight,25,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,0,Yes,Bachelor’s degree
-74,Male,Straight,45,White non-Hispanic,Normal weight,No,No,No,0,Yes,"Some college, no degree"
-75,Male,Straight,28,White non-Hispanic,Normal weight,Yes,No,No,12,Yes,Bachelor’s degree
-76,Male,Straight,21,Hispanic (of any race),Normal weight,Yes,No,No,0,Yes,"Some college, no degree"
-77,Male,Straight,25,Asian,Normal weight,Yes,No,No,2,Yes,Master’s degree
-78,Male,Straight,24,White non-Hispanic,Normal weight,No,No,No,5,No,Bachelor’s degree
-79,Male,Straight,19,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,2,Yes,"Some college, no degree"
-80,Male,Straight,29,Black,Overweight,Yes,No,Yes but I haven't,6,Yes,"Some college, no degree"
-81,Male,Straight,25,White non-Hispanic,Normal weight,No,No,No,4,Yes,Bachelor’s degree
-82,Male,Straight,20,White non-Hispanic,Normal weight,Yes,No,No,10,No,Bachelor’s degree
-83,Male,Straight,23,White non-Hispanic,Normal weight,Yes,No,No,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-84,Male,Straight,30,Hispanic (of any race),Underweight,No,No,Yes but I haven't,1,Yes,"Some college, no degree"
-85,Male,Straight,15,White non-Hispanic,Normal weight,Yes,No,No,9,No,"Some high school, no diploma"
-86,Female,Straight,28,Black,Obese,Yes,Yes,No,0,Yes,Associate degree
-87,Male,Straight,18,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,5,Yes,"Some college, no degree"
-88,Male,Straight,25,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,30,No,Trade/technical/vocational training
-89,Male,Straight,29,Hispanic (of any race),Normal weight,Yes,No,No,4,No,"Some college, no degree"
-90,Male,Straight,30,Hispanic (of any race),Overweight,Yes,No,No,5,No,Bachelor’s degree
-91,Male,Straight,24,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,3,Yes,Bachelor’s degree
-92,Male,Straight,23,White non-Hispanic,Overweight,Yes,No,No,100,No,Bachelor’s degree
-93,Male,Straight,34,White non-Hispanic,Obese,Yes,No,Yes but I haven't,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-94,Male,Straight,23,White non-Hispanic,Overweight,Yes,No,No,0,Yes,Bachelor’s degree
-95,Male,Straight,22,White non-Hispanic,Normal weight,No,No,No,3,Yes,"Some college, no degree"
-96,Male,Straight,23,Hispanic (of any race),Normal weight,No,Yes,Yes and I have,20,Yes,Bachelor’s degree
-97,Male,Straight,30,White non-Hispanic,Normal weight,Yes,No,No,10,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-98,Male,Bisexual,19,White non-Hispanic,Overweight,Yes,No,No,0,Yes,"Some college, no degree"
-99,Male,Straight,19,White non-Hispanic,Normal weight,Yes,No,No,6,Yes,"Some college, no degree"
-100,Male,Straight,21,White non-Hispanic,Normal weight,No,Yes,No,6,No,"High school graduate, diploma or the equivalent (for example: GED)"
-101,Male,Straight,16,Hispanic (of any race),Overweight,Yes,No,No,0,Yes,"Some high school, no diploma"
-102,Female,Straight,25,White non-Hispanic,Normal weight,No,No,No,2,No,"Some college, no degree"
-103,Male,Straight,19,White non-Hispanic,Overweight,Yes,No,No,6,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-104,Female,Bisexual,26,Hispanic (of any race),Normal weight,No,No,No,2,Yes,Master’s degree
-105,Male,Straight,32,White non-Hispanic,Overweight,Yes,No,No,5,Yes,Bachelor’s degree
-106,Male,Straight,28,White non-Hispanic,Normal weight,Yes,No,No,0,Yes,"Some college, no degree"
-107,Male,Straight,23,White non-Hispanic,Normal weight,Yes,Yes,No,4,No,"Some college, no degree"
-108,Female,Straight,18,Asian,Normal weight,Yes,Yes,No,10,Yes,Bachelor’s degree
-109,Male,Straight,22,Asian,Normal weight,Yes,No,No,0,Yes,Bachelor’s degree
-110,Male,Straight,25,Black,Overweight,Yes,No,Yes but I haven't,2,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-111,Male,Straight,19,Asian,Normal weight,Yes,No,Yes but I haven't,1,No,Bachelor’s degree
-112,Male,Straight,21,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,0,Yes,Bachelor’s degree
-113,Female,Straight,17,Asian,Underweight,Yes,No,No,16,No,"High school graduate, diploma or the equivalent (for example: GED)"
-114,Female,Bisexual,38,White non-Hispanic,Normal weight,No,No,No,0,Yes,Bachelor’s degree
-115,Male,Straight,23,Hispanic (of any race),Normal weight,Yes,No,Yes but I haven't,15,No,Bachelor’s degree
-116,Male,Straight,21,White non-Hispanic,Underweight,Yes,No,No,3,No,"Some college, no degree"
-117,Male,Straight,19,White non-Hispanic,Underweight,Yes,No,No,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-118,Male,Straight,19,White non-Hispanic,Normal weight,Yes,Yes,No,2,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-119,Male,Straight,21,White non-Hispanic,Underweight,Yes,No,Yes but I haven't,1,No,Trade/technical/vocational training
-120,Male,Bisexual,23,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,4,No,"Some college, no degree"
-121,Male,Straight,20,White non-Hispanic,Underweight,Yes,No,No,5,Yes,"Some college, no degree"
-122,Male,Straight,20,White non-Hispanic,Obese,Yes,No,No,3,Yes,"Some college, no degree"
-123,Male,Straight,21,White non-Hispanic,Underweight,Yes,Yes,No,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-124,Male,Bisexual,17,White non-Hispanic,Underweight,Yes,No,No,2,No,"Some college, no degree"
-125,Male,Straight,28,White non-Hispanic,Normal weight,Yes,No,No,4,Yes,Bachelor’s degree
-126,Male,Bisexual,20,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,3,No,"Some college, no degree"
-127,Male,Bisexual,22,White non-Hispanic,Normal weight,Yes,No,No,2,Yes,"Some college, no degree"
-128,Male,Straight,70,White non-Hispanic,Obese,No,No,No,5,No,Doctorate degree
-129,Male,Straight,28,White non-Hispanic,Underweight,Yes,No,Yes but I haven't,0,Yes,Trade/technical/vocational training
-130,Male,Straight,30,Mixed race,Underweight,No,No,No,12,Yes,"Some college, no degree"
-131,Male,Straight,24,White non-Hispanic,Normal weight,Yes,Yes,No,3,Yes,"Some high school, no diploma"
-132,Male,Straight,26,White non-Hispanic,Normal weight,No,No,No,20,Yes,Professional degree
-133,Male,Straight,21,White non-Hispanic,Normal weight,Yes,No,No,6,No,"Some college, no degree"
-134,Male,Straight,34,Asian,Normal weight,No,No,No,5,No,Professional degree
-135,Male,Straight,22,Hispanic (of any race),Underweight,Yes,No,Yes but I haven't,6,Yes,"Some college, no degree"
-136,Male,Straight,29,White non-Hispanic,Normal weight,Yes,Yes,No,0,No,Bachelor’s degree
-137,Male,Straight,29,Pakistani,Overweight,Yes,No,Yes but I haven't,18,No,"High school graduate, diploma or the equivalent (for example: GED)"
-138,Male,Straight,24,White non-Hispanic,Normal weight,Yes,Yes,No,1,No,Bachelor’s degree
-139,Male,Straight,30,White non-Hispanic,Overweight,Yes,No,No,1,Yes,Doctorate degree
-140,Male,Straight,19,White non-Hispanic,Overweight,Yes,No,No,4,Yes,"Some college, no degree"
-141,Male,Straight,28,White non-Hispanic,Underweight,Yes,Yes,No,2,Yes,Bachelor’s degree
-142,Female,Bisexual,19,White non-Hispanic,Normal weight,Yes,Yes,No,1,Yes,"Some high school, no diploma"
-143,Male,Straight,19,White non-Hispanic,Overweight,Yes,Yes,No,0,No,"Some college, no degree"
-144,Female,Straight,25,Asian,Underweight,No,No,No,17,No,Bachelor’s degree
-145,Female,Bisexual,21,Hispanic (of any race),Normal weight,No,No,No,10,Yes,"Some college, no degree"
-146,Male,Straight,35,White non-Hispanic,Overweight,No,Yes,Yes and I have,3,Yes,Bachelor’s degree
-147,Female,Straight,21,Asian,Normal weight,Yes,No,No,5,Yes,Bachelor’s degree
-148,Male,Straight,24,Black,Normal weight,Yes,No,Yes and I have,5,Yes,"Some college, no degree"
-149,Male,Straight,18,White non-Hispanic,Normal weight,Yes,Yes,Yes but I haven't,5,No,"High school graduate, diploma or the equivalent (for example: GED)"
-150,Female,Bisexual,12,helicopterkin,Obese,No,Yes,No,15,No,"Some high school, no diploma"
-151,Female,Straight,23,White non-Hispanic,Normal weight,No,No,No,3,Yes,Bachelor’s degree
-152,Male,Straight,29,Black,Overweight,Yes,No,Yes but I haven't,6,Yes,"Some college, no degree"
-153,Male,Straight,24,White non-Hispanic,Normal weight,No,No,Yes and I have,20,Yes,Bachelor’s degree
-154,Male,Straight,30,White non-Hispanic,Underweight,Yes,No,No,1,Yes,Doctorate degree
-155,Male,Straight,21,White non-Hispanic,Normal weight,Yes,Yes,No,3,Yes,"Some college, no degree"
-156,Male,Straight,18,Asian,Underweight,Yes,No,Yes but I haven't,3,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-157,Male,Straight,22,Hispanic (of any race),Overweight,Yes,No,Yes but I haven't,2,Yes,Associate degree
-158,Male,Straight,22,White non-Hispanic,Overweight,Yes,No,No,3,Yes,"Some college, no degree"
-159,Male,Straight,26,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,1,Yes,Associate degree
-160,Male,Straight,20,Hispanic (of any race),Overweight,Yes,No,No,1,Yes,"Some college, no degree"
-161,Male,Straight,17,Hispanic (of any race),Normal weight,Yes,Yes,No,6,No,"Some high school, no diploma"
-162,Male,Straight,20,White non-Hispanic,Underweight,Yes,No,No,1,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-163,Male,Straight,28,Middle Eastern,Normal weight,Yes,Yes,No,10,No,Bachelor’s degree
-164,Male,Straight,36,Asian,Normal weight,No,No,Yes and I have,80,No,Bachelor’s degree
-165,Female,Straight,26,White non-Hispanic,Obese,Yes,No,No,2,Yes,Bachelor’s degree
-166,Male,Straight,28,White non-Hispanic,Overweight,Yes,Yes,No,0,Yes,"Some college, no degree"
-167,Male,Straight,21,Asian,Normal weight,Yes,No,No,1,No,Master’s degree
-168,Male,Straight,21,Asian,Normal weight,Yes,Yes,No,5,Yes,Bachelor’s degree
-169,Male,Straight,23,White non-Hispanic,Normal weight,Yes,Yes,Yes but I haven't,1,Yes,Bachelor’s degree
-170,Male,Straight,23,White non-Hispanic,Underweight,Yes,No,No,0,Yes,Associate degree
-171,Male,Bisexual,23,White non-Hispanic,Normal weight,No,No,Yes but I haven't,10,Yes,"Some college, no degree"
-172,Male,Straight,28,White non-Hispanic,Normal weight,No,No,No,5,Yes,"Some high school, no diploma"
-173,Male,Straight,31,White non-Hispanic,Normal weight,Yes,No,No,0,No,"Some high school, no diploma"
-174,Male,Straight,19,Asian,Normal weight,Yes,Yes,No,1,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-175,Female,Gay/Lesbian,15,White non-Hispanic,Normal weight,Yes,No,No,0,Yes,"Some high school, no diploma"
-176,Male,Straight,26,Turkish,Overweight,Yes,Yes,No,3,Yes,Master’s degree
-177,Male,Straight,28,Asian,Overweight,Yes,No,No,10,Yes,Master’s degree
-178,Male,Straight,23,White non-Hispanic,Overweight,Yes,No,No,10,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-179,Male,Gay/Lesbian,26,White non-Hispanic,Overweight,Yes,No,No,0,No,Associate degree
-180,Male,Straight,27,White non-Hispanic,Normal weight,Yes,No,Yes and I have,15,No,Master’s degree
-181,Male,Straight,26,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,10,No,Bachelor’s degree
-182,Male,Straight,35,Asian,Normal weight,Yes,Yes,No,2,Yes,"Some college, no degree"
-183,Male,Straight,31,White non-Hispanic,Obese,Yes,No,No,3,No,"Some college, no degree"
-184,Male,Straight,57,White non-Hispanic,Normal weight,No,No,No,0,No,Trade/technical/vocational training
-185,Male,Straight,25,Hispanic (of any race),Normal weight,No,No,Yes and I have,0,Yes,Bachelor’s degree
-186,Male,Straight,25,White non-Hispanic,Normal weight,Yes,No,No,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-187,Male,Gay/Lesbian,25,White non-Hispanic,Overweight,Yes,No,No,6,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-188,Female,Bisexual,22,White non-Hispanic,Normal weight,No,No,No,0,Yes,"Some college, no degree"
-189,Female,Straight,23,Asian,Underweight,Yes,No,No,0,Yes,Bachelor’s degree
-190,Female,Straight,21,White non-Hispanic,Normal weight,No,No,No,16,No,Associate degree
-191,Male,Straight,33,White non-Hispanic,Normal weight,Yes,No,No,1,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-192,Male,Straight,18,Asian,Normal weight,Yes,No,No,5,No,"Some college, no degree"
-193,Male,Straight,27,White non-Hispanic,Underweight,Yes,Yes,No,1,Yes,Bachelor’s degree
-194,Male,Straight,21,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,1,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-195,Male,Straight,20,White non-Hispanic,Normal weight,No,No,Yes and I have,0,No,"High school graduate, diploma or the equivalent (for example: GED)"
-196,Male,Straight,23,White non-Hispanic,Normal weight,Yes,No,No,0,No,Bachelor’s degree
-197,Male,Straight,29,Asian,Obese,Yes,No,Yes but I haven't,0,No,Bachelor’s degree
-198,Male,Straight,23,Asian,Normal weight,Yes,Yes,Yes but I haven't,2,Yes,Bachelor’s degree
-199,Female,Straight,26,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,0,No,"High school graduate, diploma or the equivalent (for example: GED)"
-200,Male,Straight,22,White non-Hispanic,Normal weight,Yes,No,No,0,Yes,"Some college, no degree"
-201,Male,Straight,23,Indian,Underweight,Yes,No,Yes but I haven't,3,Yes,Bachelor’s degree
-202,Male,Straight,27,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,6,Yes,"Some high school, no diploma"
-203,Male,Straight,24,White non-Hispanic,Normal weight,Yes,No,No,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-204,Male,Straight,28,White non-Hispanic,Normal weight,No,Yes,Yes but I haven't,3,Yes,Master’s degree
-205,Male,Straight,19,White non-Hispanic,Overweight,Yes,Yes,Yes but I haven't,10,No,Trade/technical/vocational training
-206,Male,Straight,24,Black,Underweight,No,No,Yes but I haven't,4,Yes,Bachelor’s degree
-207,Male,Straight,25,White non-Hispanic,Normal weight,No,No,Yes but I haven't,30,No,Bachelor’s degree
-208,Male,Straight,18,White non-Hispanic,Normal weight,Yes,Yes,No,0,No,"High school graduate, diploma or the equivalent (for example: GED)"
-209,Male,Straight,27,White non-Hispanic,Underweight,No,No,No,13,No,"High school graduate, diploma or the equivalent (for example: GED)"
-210,Female,Gay/Lesbian,35,Black,Obese,No,No,No,3,Yes,"Some college, no degree"
-211,Male,Straight,19,White non-Hispanic,Normal weight,Yes,No,No,6,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-212,Female,Bisexual,21,White non-Hispanic,Normal weight,No,Yes,No,7,Yes,Bachelor’s degree
-213,Female,Straight,30,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,0,No,Bachelor’s degree
-214,Male,Straight,18,Native american,Normal weight,Yes,No,Yes but I haven't,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-215,Female,Bisexual,27,White non-Hispanic,Normal weight,Yes,Yes,No,10,Yes,Bachelor’s degree
-216,Male,Straight,35,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,4,Yes,"Some college, no degree"
-217,Male,Straight,28,White non-Hispanic,Normal weight,Yes,Yes,No,15,No,Bachelor’s degree
-218,Female,Straight,28,White non-Hispanic,Overweight,No,No,No,20,No,Master’s degree
-219,Male,Straight,19,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,3,Yes,"Some high school, no diploma"
-220,Female,Straight,29,White non-Hispanic,Normal weight,No,No,No,5,Yes,Associate degree
-221,Male,Straight,29,White non-Hispanic,Normal weight,Yes,No,No,7,Yes,Bachelor’s degree
-222,Male,Straight,22,White non-Hispanic,Normal weight,Yes,No,No,1,Yes,"Some college, no degree"
-223,Male,Straight,24,White non-Hispanic,Overweight,Yes,Yes,Yes but I haven't,1,Yes,"Some college, no degree"
-224,Male,Straight,20,Black,Normal weight,Yes,No,No,10,Yes,"Some college, no degree"
-225,Male,Straight,23,White non-Hispanic,Normal weight,Yes,No,No,4,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-226,Male,Straight,22,White non-Hispanic,Normal weight,Yes,Yes,No,0,No,Bachelor’s degree
-227,Male,Straight,17,White non-Hispanic,Normal weight,Yes,Yes,Yes but I haven't,10,No,"High school graduate, diploma or the equivalent (for example: GED)"
-228,Male,Straight,19,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,1,Yes,"Some high school, no diploma"
-229,Male,Straight,24,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,1,No,Bachelor’s degree
-230,Male,Straight,31,White non-Hispanic,Overweight,No,No,Yes but I haven't,3,Yes,"Some college, no degree"
-231,Male,Straight,22,White non-Hispanic,Normal weight,No,Yes,Yes but I haven't,8,No,Bachelor’s degree
-232,Male,Straight,24,Asian,Overweight,No,No,Yes and I have,3,Yes,Bachelor’s degree
-233,Male,Straight,31,White non-Hispanic,Normal weight,No,No,No,2,Yes,"Some college, no degree"
-234,Male,Straight,22,Asian,Normal weight,Yes,Yes,Yes and I have,3,Yes,Bachelor’s degree
-235,Male,Straight,20,White non-Hispanic,Normal weight,Yes,Yes,No,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-236,Female,Straight,27,White non-Hispanic,Overweight,Yes,Yes,No,1,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-237,Male,Straight,24,Black,Overweight,Yes,No,Yes but I haven't,6,No,Bachelor’s degree
-238,Male,Straight,26,White non-Hispanic,Normal weight,Yes,No,No,0,Yes,"Some college, no degree"
-239,Male,Straight,22,Asian,Normal weight,Yes,Yes,No,0,Yes,"Some college, no degree"
-240,Male,Straight,26,White non-Hispanic,Overweight,Yes,Yes,No,4,Yes,Bachelor’s degree
-241,Male,Straight,24,White non-Hispanic,Normal weight,No,No,No,0,No,Associate degree
-242,Male,Straight,18,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,20,No,Master’s degree
-243,Male,Straight,18,White non-Hispanic,Normal weight,No,No,No,6,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-244,Male,Straight,22,Black,Normal weight,Yes,No,No,5,No,"Some college, no degree"
-245,Male,Straight,22,White non-Hispanic,Normal weight,Yes,No,No,15,No,"Some college, no degree"
-246,Male,Straight,19,White non-Hispanic,Normal weight,No,Yes,No,0,No,"Some college, no degree"
-247,Male,Straight,18,Asian,Normal weight,Yes,No,Yes but I haven't,0,Yes,"Some college, no degree"
-248,Male,Straight,21,Indian,Normal weight,Yes,Yes,Yes but I haven't,10,Yes,Bachelor’s degree
-249,Male,Straight,31,Mixed,Overweight,Yes,No,Yes but I haven't,3,Yes,"Some college, no degree"
-250,Male,Bisexual,25,White non-Hispanic,Underweight,Yes,No,No,28,No,Bachelor’s degree
-251,Male,Straight,23,White non-Hispanic,Normal weight,No,Yes,No,4,Yes,Bachelor’s degree
-252,Male,Straight,27,White non-Hispanic,Normal weight,Yes,Yes,No,10,Yes,Bachelor’s degree
-253,Male,Straight,19,White non-Hispanic,Obese,Yes,No,No,0,Yes,"Some college, no degree"
-254,Male,Straight,20,White non-Hispanic,Underweight,No,No,No,2,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-255,Male,Bisexual,20,White non-Hispanic,Underweight,Yes,Yes,Yes but I haven't,0,No,"High school graduate, diploma or the equivalent (for example: GED)"
-256,Male,Straight,26,White non-Hispanic,Overweight,Yes,No,No,3,Yes,"Some high school, no diploma"
-257,Male,Straight,31,White non-Hispanic,Normal weight,No,No,No,100,No,Bachelor’s degree
-258,Male,Straight,18,White non-Hispanic,Normal weight,Yes,Yes,No,3,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-259,Male,Straight,22,White non-Hispanic,Overweight,Yes,Yes,Yes but I haven't,4,Yes,Trade/technical/vocational training
-260,Male,Bisexual,28,White non-Hispanic,Overweight,No,No,No,10,Yes,Bachelor’s degree
-261,Male,Straight,24,White non-Hispanic,Overweight,Yes,No,No,1,Yes,Bachelor’s degree
-262,Male,Straight,26,White non-Hispanic,Obese,No,No,Yes and I have,0,Yes,Bachelor’s degree
-263,Male,Straight,23,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,5,Yes,Bachelor’s degree
-264,Female,Straight,27,White non-Hispanic,Normal weight,Yes,No,No,4,Yes,Doctorate degree
-265,Male,Straight,33,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,0,No,Bachelor’s degree
-266,Female,Straight,26,Mixed,Normal weight,Yes,No,No,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-267,Male,Straight,30,White non-Hispanic,Normal weight,No,No,No,3,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-268,Male,Straight,24,White non-Hispanic,Obese,Yes,No,Yes but I haven't,2,Yes,Associate degree
-269,Male,Straight,44,White non-Hispanic,Normal weight,No,No,Yes but I haven't,12,No,Bachelor’s degree
-270,Male,Straight,27,White non-Hispanic,Overweight,Yes,Yes,No,7,No,Bachelor’s degree
-271,Male,Straight,27,White non-Hispanic,Obese,Yes,No,No,5,Yes,Bachelor’s degree
-272,Male,Straight,32,Asian,Normal weight,No,No,Yes and I have,10,Yes,"Some college, no degree"
-273,Male,Straight,27,White non-Hispanic,Normal weight,No,No,No,0,No,Master’s degree
-274,Male,Straight,20,White non-Hispanic,Normal weight,Yes,Yes,No,0,No,Bachelor’s degree
-275,Male,Straight,18,White non-Hispanic,Normal weight,Yes,No,No,5,No,"Some college, no degree"
-276,Male,Straight,22,White non-Hispanic,Normal weight,Yes,Yes,No,1,Yes,"Some high school, no diploma"
-277,Male,Straight,26,White non-Hispanic,Normal weight,Yes,No,No,0,No,"Some college, no degree"
-278,Male,Straight,22,Black,Normal weight,Yes,No,No,25,Yes,"Some college, no degree"
-279,Male,Straight,23,White non-Hispanic,Normal weight,Yes,No,No,1,Yes,Associate degree
-280,Female,Bisexual,41,White non-Hispanic,Overweight,No,No,No,1,Yes,"Some college, no degree"
-281,Male,Straight,28,Asian,Normal weight,No,No,Yes and I have,4,Yes,Professional degree
-282,Male,Straight,29,Asian,Overweight,Yes,No,Yes but I haven't,8,Yes,Bachelor’s degree
-283,Female,Straight,19,White non-Hispanic,Normal weight,Yes,No,No,2,Yes,"Some college, no degree"
-284,Male,Straight,21,White non-Hispanic,Overweight,Yes,No,No,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-285,Male,Straight,19,Asian,Normal weight,Yes,No,No,20,No,Bachelor’s degree
-286,Male,Straight,19,White non-Hispanic,Underweight,Yes,No,No,1,Yes,"Some college, no degree"
-287,Male,Straight,20,Hispanic (of any race),Normal weight,No,Yes,Yes and I have,7,Yes,"Some college, no degree"
-288,Male,Straight,22,White non-Hispanic,Normal weight,Yes,Yes,No,0,Yes,"Some college, no degree"
-289,Male,Straight,20,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-290,Male,Bisexual,25,White non-Hispanic,Normal weight,No,No,Yes but I haven't,7,Yes,"Some college, no degree"
-291,Male,Straight,30,Mixed white/asian,Overweight,Yes,No,No,4,Yes,Master’s degree
-292,Male,Straight,30,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,6,No,Bachelor’s degree
-293,Male,Straight,22,Mixed,Normal weight,Yes,Yes,No,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-294,Male,Straight,26,White non-Hispanic,Normal weight,Yes,No,No,3,No,Bachelor’s degree
-295,Male,Straight,36,White non-Hispanic,Obese,Yes,No,Yes but I haven't,0,Yes,"Some college, no degree"
-296,Male,Straight,23,White non-Hispanic,Normal weight,No,No,No,8,Yes,Bachelor’s degree
-297,Male,Bisexual,16,White non-Hispanic,Underweight,Yes,No,Yes but I haven't,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-298,Female,Straight,25,Asian,Normal weight,Yes,No,No,20,No,Bachelor’s degree
-299,Female,Straight,37,Asian,Normal weight,Yes,No,No,1,No,Bachelor’s degree
-300,Male,Straight,24,White non-Hispanic,Underweight,Yes,No,No,2,Yes,"Some college, no degree"
-301,Male,Straight,21,Indian,Overweight,Yes,No,No,0,No,"Some college, no degree"
-302,Male,Straight,18,White non-Hispanic,Overweight,No,No,Yes but I haven't,4,Yes,"Some high school, no diploma"
-303,Male,Straight,23,White non-Hispanic,Normal weight,No,No,No,20,No,Bachelor’s degree
-304,Male,Straight,29,Asian,Overweight,No,No,No,0,Yes,"Some high school, no diploma"
-305,Male,Straight,18,White non-Hispanic,Normal weight,Yes,No,No,12,No,"High school graduate, diploma or the equivalent (for example: GED)"
-306,Male,Straight,18,White non-Hispanic,Normal weight,Yes,Yes,No,20,Yes,"Some high school, no diploma"
-307,Male,Straight,21,White non-Hispanic,Underweight,Yes,No,No,2,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-308,Male,Straight,18,Asian,Normal weight,Yes,No,No,8,No,"Some college, no degree"
-309,Male,Straight,20,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,10,No,"High school graduate, diploma or the equivalent (for example: GED)"
-310,Male,Straight,39,Asian,Normal weight,No,No,Yes but I haven't,10,No,"Some college, no degree"
-311,Male,Straight,30,Multi,Normal weight,No,No,Yes and I have,15,No,Master’s degree
-312,Male,Bisexual,19,White non-Hispanic,Overweight,Yes,No,No,1,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-313,Male,Straight,19,White non-Hispanic,Normal weight,Yes,No,No,20,No,"Some college, no degree"
-314,Male,Straight,26,Asian,Normal weight,No,No,No,60,No,Bachelor’s degree
-315,Male,Straight,22,White non-Hispanic,Obese,Yes,No,No,600,No,"Some college, no degree"
-316,Male,Straight,23,White non-Hispanic,Underweight,Yes,No,No,0,Yes,Trade/technical/vocational training
-317,Male,Straight,18,White non-Hispanic,Normal weight,Yes,Yes,No,0,Yes,"Some high school, no diploma"
-318,Male,Straight,15,Hispanic (of any race),Overweight,Yes,No,Yes but I haven't,5,No,"Some high school, no diploma"
-319,Male,Straight,22,White non-Hispanic,Underweight,Yes,Yes,No,1,Yes,"Some college, no degree"
-320,Male,Straight,26,White non-Hispanic,Overweight,Yes,No,No,1,Yes,Bachelor’s degree
-321,Male,Straight,30,White non-Hispanic,Overweight,No,No,Yes and I have,5,No,Bachelor’s degree
-322,Male,Straight,38,White non-Hispanic,Overweight,No,No,Yes but I haven't,7,Yes,Trade/technical/vocational training
-323,Male,Straight,22,White non-Hispanic,Overweight,Yes,No,No,10,Yes,"Some college, no degree"
-324,Female,Straight,20,Black,Normal weight,Yes,No,No,2,Yes,Bachelor’s degree
-325,Male,Straight,24,White non-Hispanic,Normal weight,Yes,No,No,1,Yes,"Some high school, no diploma"
-326,Male,Straight,31,White non-Hispanic,Normal weight,Yes,Yes,No,30,No,Master’s degree
-327,Male,Straight,20,White non-Hispanic,Normal weight,Yes,Yes,No,20,Yes,"Some college, no degree"
-328,Male,Straight,21,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,2,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-329,Male,Straight,23,White non-Hispanic,Overweight,Yes,Yes,No,3,Yes,"Some college, no degree"
-330,Male,Straight,20,White non-Hispanic,Normal weight,Yes,No,No,5,Yes,Associate degree
-331,Female,Straight,27,Hispanic (of any race),Normal weight,Yes,No,No,3,No,Bachelor’s degree
-332,Male,Straight,30,White non-Hispanic,Obese,Yes,No,No,0,No,"Some college, no degree"
-333,Male,Straight,23,Asian,Overweight,No,No,Yes but I haven't,4,No,"High school graduate, diploma or the equivalent (for example: GED)"
-334,Male,Straight,25,Native American mix,Overweight,Yes,No,Yes but I haven't,6,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-335,Female,Straight,22,White non-Hispanic,Normal weight,Yes,No,No,0,No,Master’s degree
-336,Male,Straight,20,White non-Hispanic,Normal weight,Yes,Yes,No,6,Yes,Bachelor’s degree
-337,Female,Straight,24,Hispanic (of any race),Overweight,No,No,No,10,No,Bachelor’s degree
-338,Male,Straight,19,White non-Hispanic,Normal weight,Yes,No,No,10,No,"Some college, no degree"
-339,Female,Bisexual,21,Hispanic (of any race),Overweight,No,No,Yes but I haven't,2,No,"Some college, no degree"
-340,Male,Straight,20,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,5,No,"Some college, no degree"
-341,Female,Bisexual,23,Black,Normal weight,Yes,Yes,No,3,Yes,Master’s degree
-342,Male,Straight,22,White non-Hispanic,Normal weight,Yes,No,No,3,Yes,Associate degree
-343,Male,Straight,18,White non-Hispanic,Overweight,Yes,Yes,No,5,Yes,"Some high school, no diploma"
-344,Female,Straight,20,White non-Hispanic,Normal weight,Yes,No,No,2,Yes,"Some college, no degree"
-345,Male,Straight,23,White non-Hispanic,Normal weight,No,Yes,No,0,No,Bachelor’s degree
-346,Female,Bisexual,21,Asian,Normal weight,No,No,No,0,Yes,"Some college, no degree"
-347,Male,Straight,18,White non-Hispanic,Underweight,Yes,No,No,5,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-348,Female,Bisexual,20,White non-Hispanic,Normal weight,Yes,No,No,15,Yes,Bachelor’s degree
-349,Male,Straight,20,Hispanic (of any race),Overweight,Yes,No,Yes but I haven't,4,Yes,"Some college, no degree"
-350,Male,Straight,18,White non-Hispanic,Normal weight,Yes,No,No,3,No,"Some college, no degree"
-351,Male,Straight,25,White non-Hispanic,Normal weight,No,Yes,Yes and I have,0,No,"High school graduate, diploma or the equivalent (for example: GED)"
-352,Male,Straight,24,White non-Hispanic,Normal weight,No,Yes,Yes and I have,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-353,Female,Bisexual,20,White non-Hispanic,Obese,Yes,No,No,1,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-354,Male,Straight,22,White non-Hispanic,Normal weight,Yes,Yes,No,5,No,Trade/technical/vocational training
-355,Male,Gay/Lesbian,21,White non-Hispanic,Normal weight,No,No,No,3,Yes,"Some college, no degree"
-356,Male,Straight,39,White non-Hispanic,Normal weight,Yes,Yes,No,5,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-357,Male,Straight,20,White non-Hispanic,Overweight,Yes,Yes,Yes and I have,1,Yes,"Some high school, no diploma"
-358,Female,Straight,23,Asian,Normal weight,No,No,No,5,Yes,Bachelor’s degree
-359,Male,Straight,30,White non-Hispanic,Normal weight,Yes,No,No,0,No,"High school graduate, diploma or the equivalent (for example: GED)"
-360,Male,Straight,25,Asian,Overweight,Yes,Yes,No,7,No,"High school graduate, diploma or the equivalent (for example: GED)"
-361,Male,Straight,18,White non-Hispanic,Normal weight,Yes,No,No,2,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-362,Male,Straight,19,White non-Hispanic,Overweight,Yes,No,No,4,No,"Some college, no degree"
-363,Male,Straight,18,White non-Hispanic,Normal weight,Yes,No,No,20,Yes,"Some college, no degree"
-364,Male,Straight,23,White non-Hispanic,Normal weight,Yes,No,No,7,Yes,Bachelor’s degree
-365,Male,Straight,28,White non-Hispanic,Obese,Yes,No,No,4,Yes,"Some college, no degree"
-366,Male,Straight,18,White non-Hispanic,Normal weight,Yes,No,No,6,Yes,"Some high school, no diploma"
-367,Male,Straight,21,North African,Normal weight,Yes,No,No,0,Yes,Master’s degree
-368,Female,Bisexual,30,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,2,No,Bachelor’s degree
-369,Male,Straight,21,White non-Hispanic,Normal weight,Yes,No,No,2,No,Associate degree
-370,Male,Bisexual,21,Asian,Normal weight,Yes,Yes,No,3,No,"Some college, no degree"
-371,Male,Straight,14,Half Asian half white,Normal weight,Yes,No,Yes but I haven't,1,Yes,"Some high school, no diploma"
-372,Male,Straight,22,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,1,Yes,Trade/technical/vocational training
-373,Male,Straight,33,White non-Hispanic,Overweight,No,No,Yes but I haven't,1,Yes,"Some college, no degree"
-374,Male,Straight,24,Asian,Normal weight,Yes,Yes,No,13,Yes,Bachelor’s degree
-375,Male,Straight,17,White non-Hispanic,Normal weight,Yes,No,No,5,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-376,Male,Bisexual,28,White non-Hispanic,Obese,Yes,No,Yes but I haven't,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-377,Male,Straight,18,White non-Hispanic,Normal weight,Yes,No,No,0,Yes,"Some high school, no diploma"
-378,Male,Straight,18,White non-Hispanic,Normal weight,Yes,No,No,1,Yes,"Some high school, no diploma"
-379,Male,Straight,27,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,2,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-380,Male,Straight,18,Asian,Underweight,Yes,No,No,7,No,"Some college, no degree"
-381,Male,Straight,48,White non-Hispanic,Normal weight,No,No,Yes but I haven't,0,Yes,Master’s degree
-382,Male,Straight,29,White non-Hispanic,Normal weight,Yes,Yes,No,40,Yes,Bachelor’s degree
-383,Male,Straight,20,Asian,Underweight,Yes,No,Yes but I haven't,2,No,Bachelor’s degree
-384,Male,Straight,20,White non-Hispanic,Underweight,Yes,Yes,Yes but I haven't,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-385,Male,Straight,20,White non-Hispanic,Underweight,Yes,Yes,Yes but I haven't,0,Yes,"Some college, no degree"
-386,Male,Straight,20,White non-Hispanic,Underweight,Yes,Yes,Yes but I haven't,0,Yes,"Some college, no degree"
-387,Male,Straight,18,White non-Hispanic,Overweight,Yes,No,No,30,No,"Some high school, no diploma"
-388,Male,Straight,19,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,1,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-389,Female,Straight,25,White non-Hispanic,Normal weight,No,No,No,8,No,"Some college, no degree"
-390,Male,Straight,25,Mixed,Normal weight,No,No,No,12,No,Master’s degree
-391,Male,Bisexual,21,White non-Hispanic,Underweight,Yes,No,No,0,No,"Some college, no degree"
-392,Male,Straight,20,White non-Hispanic,Overweight,Yes,No,No,6,Yes,"Some college, no degree"
-393,Female,Straight,23,Black,Overweight,No,No,No,15,No,"Some college, no degree"
-394,Male,Straight,24,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,1,No,"Some college, no degree"
-395,Male,Straight,42,White non-Hispanic,Overweight,Yes,No,No,0,No,"Some college, no degree"
-396,Male,Straight,32,White non-Hispanic,Normal weight,Yes,No,No,5,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-397,Male,Straight,21,White non-Hispanic,Overweight,No,No,No,2,Yes,"Some college, no degree"
-398,Male,Straight,21,Black,Normal weight,Yes,No,No,0,Yes,"Some high school, no diploma"
-399,Female,Bisexual,21,Hispanic (of any race),Normal weight,Yes,No,No,3,Yes,Bachelor’s degree
-400,Male,Straight,16,Hispanic (of any race),Normal weight,Yes,No,Yes but I haven't,0,Yes,"Some high school, no diploma"
-401,Male,Straight,38,White non-Hispanic,Underweight,Yes,No,No,0,Yes,Bachelor’s degree
-402,Female,Gay/Lesbian,20,White non-Hispanic,Normal weight,No,Yes,No,2,No,Bachelor’s degree
-403,Male,Straight,24,White non-Hispanic,Normal weight,Yes,Yes,Yes but I haven't,5,Yes,Master’s degree
-404,Male,Straight,22,White non-Hispanic,Overweight,No,Yes,Yes and I have,2,No,"Some college, no degree"
-405,Male,Straight,18,White non-Hispanic,Normal weight,Yes,Yes,No,5,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-406,Male,Straight,18,White non-Hispanic,Underweight,Yes,No,No,12,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-407,Male,Straight,23,Asian,Normal weight,Yes,No,Yes but I haven't,4,No,Professional degree
-408,Male,Straight,23,White non-Hispanic,Normal weight,Yes,Yes,Yes but I haven't,2,Yes,Master’s degree
-409,Male,Straight,21,Asian,Normal weight,Yes,No,No,9,No,"High school graduate, diploma or the equivalent (for example: GED)"
-410,Male,Bisexual,24,White and Native American,Obese,Yes,No,Yes but I haven't,3,Yes,"Some high school, no diploma"
-411,Male,Straight,22,White non-Hispanic,Underweight,Yes,No,No,0,Yes,"Some college, no degree"
-412,Female,Straight,17,White non-Hispanic,Overweight,Yes,Yes,No,10,No,"Some high school, no diploma"
-413,Male,Bisexual,34,White non-Hispanic,Obese,No,No,Yes but I haven't,2,Yes,"Some college, no degree"
-414,Male,Bisexual,26,"First two answers. Gender is androgyne, not male; sexuality is asexual, not bi.",Normal weight,No,No,No,0,Yes,Bachelor’s degree
-415,Male,Straight,27,White non-Hispanic,Obese,Yes,No,No,1,Yes,Master’s degree
-416,Male,Straight,19,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,3,Yes,"Some high school, no diploma"
-417,Male,Straight,15,White non-Hispanic,Underweight,Yes,No,Yes but I haven't,1,Yes,"Some high school, no diploma"
-418,Male,Straight,31,White non-Hispanic,Normal weight,No,No,No,0,No,"Some college, no degree"
-419,Male,Straight,17,White non-Hispanic,Overweight,Yes,No,No,3,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-420,Male,Straight,22,White non-Hispanic,Normal weight,Yes,Yes,Yes but I haven't,0,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-421,Female,Straight,21,Asian,Underweight,No,No,No,1,Yes,"Some college, no degree"
-422,Female,Bisexual,19,White non-Hispanic,Normal weight,Yes,No,No,1,Yes,"Some high school, no diploma"
-423,Male,Bisexual,26,European,Underweight,Yes,Yes,No,0,Yes,"Some high school, no diploma"
-424,Male,Straight,24,White non-Hispanic,Underweight,Yes,No,Yes but I haven't,4,Yes,"Some college, no degree"
-425,Male,Straight,18,White non-Hispanic,Underweight,Yes,Yes,No,0,Yes,"Some high school, no diploma"
-426,Transgender female,Straight,25,White non-Hispanic,Normal weight,Yes,No,No,5,Yes,"Some college, no degree"
-427,Male,Straight,23,White non-Hispanic,Underweight,Yes,Yes,Yes but I haven't,0,Yes,"Some college, no degree"
-428,Male,Straight,25,White non-Hispanic,Normal weight,No,No,No,20,No,Associate degree
-429,Male,Bisexual,33,White non-Hispanic,Normal weight,No,No,No,25,No,"Some college, no degree"
-430,Female,Straight,21,White non-Hispanic,Normal weight,No,No,No,4,Yes,"Some college, no degree"
-431,Female,Straight,30,White non-Hispanic,Normal weight,No,No,No,12,No,"Some college, no degree"
-432,Male,Straight,22,Black,Overweight,Yes,No,Yes but I haven't,2,Yes,Associate degree
-433,Male,Straight,24,White non-Hispanic,Normal weight,Yes,No,No,0,No,"Some college, no degree"
-434,Male,Straight,18,White non-Hispanic,Normal weight,Yes,No,No,1,No,"High school graduate, diploma or the equivalent (for example: GED)"
-435,Female,Bisexual,37,Hispanic (of any race),Obese,No,No,No,400,No,"Some college, no degree"
-436,Male,Straight,26,Hispanic (of any race),Normal weight,Yes,Yes,No,1,Yes,Associate degree
-437,Male,Straight,21,White non-Hispanic,Overweight,No,No,No,3,No,"High school graduate, diploma or the equivalent (for example: GED)"
-438,Male,Straight,26,Hispanic (of any race),Normal weight,Yes,Yes,Yes but I haven't,0,Yes,"Some high school, no diploma"
-439,Female,Straight,20,White non-Hispanic,Normal weight,Yes,No,No,2,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-440,Female,Straight,23,White non-Hispanic,Normal weight,Yes,No,No,2,Yes,Bachelor’s degree
-441,Male,Bisexual,26,Hispanic (of any race),Normal weight,No,No,No,15,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-442,Male,Straight,16,White non-Hispanic,Underweight,Yes,No,No,0,Yes,"Some high school, no diploma"
-443,Male,Straight,24,White non-Hispanic,Overweight,No,No,No,6,No,"Some college, no degree"
-444,Male,Straight,22,Hispanic (of any race),Overweight,Yes,No,No,0,Yes,"Some college, no degree"
-445,Female,Bisexual,20,Black,Normal weight,Yes,Yes,No,3,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-446,Male,Straight,25,White non-Hispanic,Normal weight,No,No,No,0,No,Associate degree
-447,Male,Straight,23,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,0,Yes,"Some college, no degree"
-448,Male,Straight,25,White non-Hispanic,Overweight,Yes,No,No,3,No,Professional degree
-449,Male,Straight,27,White non-Hispanic,Overweight,Yes,Yes,No,5,No,"Some high school, no diploma"
-450,Male,Straight,23,White non-Hispanic,Normal weight,No,No,No,10,No,Bachelor’s degree
-451,Female,Straight,25,White non-Hispanic,Normal weight,Yes,No,No,2,Yes,Bachelor’s degree
-452,Male,Straight,22,Black,Normal weight,Yes,No,No,15,No,"Some college, no degree"
-453,Male,Straight,23,White non-Hispanic,Normal weight,Yes,No,No,2,Yes,"Some college, no degree"
-454,Female,Straight,21,Black,Overweight,No,No,No,0,Yes,"Some college, no degree"
-455,Female,Straight,31,White non-Hispanic,Overweight,No,No,No,30,Yes,Master’s degree
-456,Male,Straight,18,White non-Hispanic,Normal weight,Yes,No,No,2,Yes,"Some high school, no diploma"
-457,Male,Straight,18,White non-Hispanic,Normal weight,Yes,No,No,30,Yes,Bachelor’s degree
-458,Male,Straight,24,White non-Hispanic,Normal weight,No,No,No,11,Yes,"Some high school, no diploma"
-459,Male,Bisexual,23,White non-Hispanic,Overweight,Yes,Yes,No,10,Yes,Bachelor’s degree
-460,Male,Straight,28,Black,Normal weight,No,No,No,1,Yes,Bachelor’s degree
-461,Male,Straight,18,Asian,Overweight,Yes,No,Yes but I haven't,5,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-462,Male,Straight,18,White non-Hispanic,Normal weight,Yes,Yes,Yes but I haven't,6,No,"Some high school, no diploma"
-463,Transgender male,Bisexual,12,White non-Hispanic,Obese,No,No,Yes and I have,0,Yes,"Some high school, no diploma"
-464,Female,Straight,26,White non-Hispanic,Overweight,Yes,No,Yes but I haven't,10,Yes,Master’s degree
-465,Male,Straight,31,White non-Hispanic,Normal weight,No,No,Yes but I haven't,10,No,"High school graduate, diploma or the equivalent (for example: GED)"
-466,Female,Straight,17,Asian,Normal weight,Yes,No,No,20,Yes,"Some high school, no diploma"
-467,Male,Straight,18,Asian,Obese,Yes,No,No,16,Yes,"High school graduate, diploma or the equivalent (for example: GED)"
-468,Male,Straight,28,White non-Hispanic,Normal weight,Yes,No,Yes but I haven't,3,Yes,Master’s degree
+gender,sexuality,age,race,bodyweight,virgin,prostitution_legal,pay_for_sex,friends,social_fear,edu_level
+Male,Straight,35,White non-Hispanic,Normal weight,True,True,No,0,True,Associate degree
+Male,Bisexual,21,White non-Hispanic,Underweight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,22,White non-Hispanic,Overweight,True,True,No,10,True,"Some college, no degree"
+Male,Straight,19,White non-Hispanic,Overweight,True,True,No,8,True,"Some college, no degree"
+Male,Straight,23,White non-Hispanic,Overweight,True,True,Yes and I have,10,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,Yes but I haven't,2,True,Bachelor’s degree
+Male,Straight,22,White non-Hispanic,Underweight,True,True,No,2,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Gay/Lesbian,24,White non-Hispanic,Normal weight,True,True,No,10,True,Trade/technical/vocational training
+Male,Straight,20,White non-Hispanic,Overweight,True,True,Yes but I haven't,0,True,"Some college, no degree"
+Male,Straight,33,White non-Hispanic,Overweight,True,True,Yes but I haven't,6,True,Master’s degree
+Female,Straight,32,Hispanic (of any race),Overweight,True,True,No,5,True,Bachelor’s degree
+Male,Straight,25,Asian,Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,Yes but I haven't,20,True,"Some college, no degree"
+Female,Straight,23,White non-Hispanic,Normal weight,True,True,Yes but I haven't,1,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,22,Hispanic (of any race),Normal weight,True,True,Yes but I haven't,0,True,Bachelor’s degree
+Male,Straight,23,White non-Hispanic,Underweight,True,True,No,6,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Straight,29,white and asian,Normal weight,True,True,Yes but I haven't,5,True,Bachelor’s degree
+Male,Straight,21,Asian,Normal weight,True,True,No,12,True,Bachelor’s degree
+Male,Straight,17,White non-Hispanic,Overweight,True,True,No,5,True,"Some high school, no diploma"
+Male,Straight,29,caucasian,Normal weight,True,True,Yes but I haven't,1,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,32,White non-Hispanic,Normal weight,True,True,No,10,True,Bachelor’s degree
+Female,Straight,20,White non-Hispanic,Normal weight,True,True,No,8,True,"Some college, no degree"
+Male,Straight,24,Hispanic (of any race),Normal weight,True,True,No,40,True,"Some high school, no diploma"
+Male,Straight,20,White non-Hispanic,Normal weight,True,True,No,10,True,Bachelor’s degree
+Male,Straight,21,White non-Hispanic,Normal weight,True,True,No,5,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Straight,17,White non-Hispanic,Underweight,True,True,No,5,True,"Some high school, no diploma"
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,No,3,True,Trade/technical/vocational training
+Male,Straight,17,White non-Hispanic,Normal weight,True,True,No,5,True,"Some high school, no diploma"
+Female,Straight,28,Asian,Normal weight,True,True,No,1,True,Bachelor’s degree
+Male,Straight,19,White non-Hispanic,Underweight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,17,Asian,Underweight,True,True,No,5,True,"Some high school, no diploma"
+Male,Straight,25,White non-Hispanic,Underweight,True,True,No,6,True,Bachelor’s degree
+Male,Straight,17,White non-Hispanic,Underweight,True,True,Yes but I haven't,5,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,Yes but I haven't,13,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,26,White non-Hispanic,Overweight,True,True,No,6,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,26,White non-Hispanic,Normal weight,True,True,No,3,True,Doctorate degree
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,Yes but I haven't,15,True,Bachelor’s degree
+Male,Straight,25,Asian,Overweight,True,True,Yes but I haven't,8,True,Bachelor’s degree
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,17,True,"Some college, no degree"
+Male,Straight,19,White non-Hispanic,Normal weight,True,True,No,40,True,Professional degree
+Male,Straight,19,Asian,Normal weight,True,True,No,15,True,Bachelor’s degree
+Female,Straight,55,White non-Hispanic,Overweight,True,True,No,0,True,Bachelor’s degree
+Male,Straight,35,White non-Hispanic,Normal weight,True,True,Yes but I haven't,5,True,Bachelor’s degree
+Male,Straight,24,White non-Hispanic,Overweight,True,True,Yes but I haven't,2,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,22,Black,Normal weight,True,True,No,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Straight,23,White non-Hispanic,Normal weight,True,True,No,1,True,Master’s degree
+Male,Straight,20,White non-Hispanic,Normal weight,True,True,No,5,True,"Some college, no degree"
+Male,Straight,25,White non-Hispanic,Underweight,True,True,No,0,True,"Some college, no degree"
+Male,Bisexual,18,White non-Hispanic,Normal weight,True,True,Yes but I haven't,10,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,29,White non-Hispanic,Overweight,True,True,Yes but I haven't,3,True,Bachelor’s degree
+Male,Bisexual,24,White non-Hispanic,Normal weight,True,True,No,1,True,"Some college, no degree"
+Female,Bisexual,23,White non-Hispanic,Normal weight,True,True,No,4,True,"Some college, no degree"
+Male,Straight,22,White non-Hispanic,Normal weight,True,True,No,3,True,"Some college, no degree"
+Male,Straight,25,White non-Hispanic,Normal weight,True,True,Yes but I haven't,6,True,Master’s degree
+Male,Straight,18,Black,Overweight,True,True,Yes but I haven't,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,19,White non-Hispanic,Underweight,True,True,Yes but I haven't,10,True,"Some college, no degree"
+Male,Straight,33,Hispanic (of any race),Underweight,True,True,Yes but I haven't,7,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,23,White non-Hispanic,Overweight,True,True,No,1,True,Bachelor’s degree
+Female,Straight,21,White non-Hispanic,Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,22,Hispanic (of any race),Normal weight,True,True,No,1,True,Bachelor’s degree
+Male,Straight,24,White non-Hispanic,Overweight,True,True,No,20,True,Bachelor’s degree
+Transgender male,Straight,21,White non-Hispanic,Normal weight,True,True,No,4,True,"Some college, no degree"
+Male,Gay/Lesbian,25,White non-Hispanic,Normal weight,True,True,No,0,True,Bachelor’s degree
+Male,Straight,20,White non-Hispanic,Normal weight,True,True,Yes but I haven't,1,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,16,White non-Hispanic,Underweight,True,True,Yes but I haven't,8,True,"Some high school, no diploma"
+Male,Straight,22,Middle Eastern,Normal weight,True,True,No,6,True,"Some college, no degree"
+Male,Straight,20,White non-Hispanic,Overweight,True,True,No,4,True,"Some college, no degree"
+Male,Straight,28,White non-Hispanic,Underweight,True,True,Yes but I haven't,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,21,White non-Hispanic,Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,24,Asian,Overweight,True,True,No,8,True,Master’s degree
+Male,Straight,38,White non-Hispanic,Overweight,True,True,No,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,24,half Arab,Overweight,True,True,No,4,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Straight,26,White non-Hispanic,Underweight,True,True,No,5,True,Bachelor’s degree
+Male,Straight,25,White non-Hispanic,Normal weight,True,True,Yes but I haven't,0,True,Bachelor’s degree
+Male,Straight,45,White non-Hispanic,Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,28,White non-Hispanic,Normal weight,True,True,No,12,True,Bachelor’s degree
+Male,Straight,21,Hispanic (of any race),Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,25,Asian,Normal weight,True,True,No,2,True,Master’s degree
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,No,5,True,Bachelor’s degree
+Male,Straight,19,White non-Hispanic,Normal weight,True,True,Yes but I haven't,2,True,"Some college, no degree"
+Male,Straight,29,Black,Overweight,True,True,Yes but I haven't,6,True,"Some college, no degree"
+Male,Straight,25,White non-Hispanic,Normal weight,True,True,No,4,True,Bachelor’s degree
+Male,Straight,20,White non-Hispanic,Normal weight,True,True,No,10,True,Bachelor’s degree
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,No,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,30,Hispanic (of any race),Underweight,True,True,Yes but I haven't,1,True,"Some college, no degree"
+Male,Straight,15,White non-Hispanic,Normal weight,True,True,No,9,True,"Some high school, no diploma"
+Female,Straight,28,Black,Obese,True,True,No,0,True,Associate degree
+Male,Straight,18,White non-Hispanic,Overweight,True,True,Yes but I haven't,5,True,"Some college, no degree"
+Male,Straight,25,White non-Hispanic,Normal weight,True,True,Yes but I haven't,30,True,Trade/technical/vocational training
+Male,Straight,29,Hispanic (of any race),Normal weight,True,True,No,4,True,"Some college, no degree"
+Male,Straight,30,Hispanic (of any race),Overweight,True,True,No,5,True,Bachelor’s degree
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,Yes but I haven't,3,True,Bachelor’s degree
+Male,Straight,23,White non-Hispanic,Overweight,True,True,No,100,True,Bachelor’s degree
+Male,Straight,34,White non-Hispanic,Obese,True,True,Yes but I haven't,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,23,White non-Hispanic,Overweight,True,True,No,0,True,Bachelor’s degree
+Male,Straight,22,White non-Hispanic,Normal weight,True,True,No,3,True,"Some college, no degree"
+Male,Straight,23,Hispanic (of any race),Normal weight,True,True,Yes and I have,20,True,Bachelor’s degree
+Male,Straight,30,White non-Hispanic,Normal weight,True,True,No,10,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Bisexual,19,White non-Hispanic,Overweight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,19,White non-Hispanic,Normal weight,True,True,No,6,True,"Some college, no degree"
+Male,Straight,21,White non-Hispanic,Normal weight,True,True,No,6,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,16,Hispanic (of any race),Overweight,True,True,No,0,True,"Some high school, no diploma"
+Female,Straight,25,White non-Hispanic,Normal weight,True,True,No,2,True,"Some college, no degree"
+Male,Straight,19,White non-Hispanic,Overweight,True,True,No,6,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Bisexual,26,Hispanic (of any race),Normal weight,True,True,No,2,True,Master’s degree
+Male,Straight,32,White non-Hispanic,Overweight,True,True,No,5,True,Bachelor’s degree
+Male,Straight,28,White non-Hispanic,Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,No,4,True,"Some college, no degree"
+Female,Straight,18,Asian,Normal weight,True,True,No,10,True,Bachelor’s degree
+Male,Straight,22,Asian,Normal weight,True,True,No,0,True,Bachelor’s degree
+Male,Straight,25,Black,Overweight,True,True,Yes but I haven't,2,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,19,Asian,Normal weight,True,True,Yes but I haven't,1,True,Bachelor’s degree
+Male,Straight,21,White non-Hispanic,Normal weight,True,True,Yes but I haven't,0,True,Bachelor’s degree
+Female,Straight,17,Asian,Underweight,True,True,No,16,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Bisexual,38,White non-Hispanic,Normal weight,True,True,No,0,True,Bachelor’s degree
+Male,Straight,23,Hispanic (of any race),Normal weight,True,True,Yes but I haven't,15,True,Bachelor’s degree
+Male,Straight,21,White non-Hispanic,Underweight,True,True,No,3,True,"Some college, no degree"
+Male,Straight,19,White non-Hispanic,Underweight,True,True,No,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,19,White non-Hispanic,Normal weight,True,True,No,2,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,21,White non-Hispanic,Underweight,True,True,Yes but I haven't,1,True,Trade/technical/vocational training
+Male,Bisexual,23,White non-Hispanic,Normal weight,True,True,Yes but I haven't,4,True,"Some college, no degree"
+Male,Straight,20,White non-Hispanic,Underweight,True,True,No,5,True,"Some college, no degree"
+Male,Straight,20,White non-Hispanic,Obese,True,True,No,3,True,"Some college, no degree"
+Male,Straight,21,White non-Hispanic,Underweight,True,True,No,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Bisexual,17,White non-Hispanic,Underweight,True,True,No,2,True,"Some college, no degree"
+Male,Straight,28,White non-Hispanic,Normal weight,True,True,No,4,True,Bachelor’s degree
+Male,Bisexual,20,White non-Hispanic,Overweight,True,True,Yes but I haven't,3,True,"Some college, no degree"
+Male,Bisexual,22,White non-Hispanic,Normal weight,True,True,No,2,True,"Some college, no degree"
+Male,Straight,70,White non-Hispanic,Obese,True,True,No,5,True,Doctorate degree
+Male,Straight,28,White non-Hispanic,Underweight,True,True,Yes but I haven't,0,True,Trade/technical/vocational training
+Male,Straight,30,Mixed race,Underweight,True,True,No,12,True,"Some college, no degree"
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,No,3,True,"Some high school, no diploma"
+Male,Straight,26,White non-Hispanic,Normal weight,True,True,No,20,True,Professional degree
+Male,Straight,21,White non-Hispanic,Normal weight,True,True,No,6,True,"Some college, no degree"
+Male,Straight,34,Asian,Normal weight,True,True,No,5,True,Professional degree
+Male,Straight,22,Hispanic (of any race),Underweight,True,True,Yes but I haven't,6,True,"Some college, no degree"
+Male,Straight,29,White non-Hispanic,Normal weight,True,True,No,0,True,Bachelor’s degree
+Male,Straight,29,Pakistani,Overweight,True,True,Yes but I haven't,18,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,No,1,True,Bachelor’s degree
+Male,Straight,30,White non-Hispanic,Overweight,True,True,No,1,True,Doctorate degree
+Male,Straight,19,White non-Hispanic,Overweight,True,True,No,4,True,"Some college, no degree"
+Male,Straight,28,White non-Hispanic,Underweight,True,True,No,2,True,Bachelor’s degree
+Female,Bisexual,19,White non-Hispanic,Normal weight,True,True,No,1,True,"Some high school, no diploma"
+Male,Straight,19,White non-Hispanic,Overweight,True,True,No,0,True,"Some college, no degree"
+Female,Straight,25,Asian,Underweight,True,True,No,17,True,Bachelor’s degree
+Female,Bisexual,21,Hispanic (of any race),Normal weight,True,True,No,10,True,"Some college, no degree"
+Male,Straight,35,White non-Hispanic,Overweight,True,True,Yes and I have,3,True,Bachelor’s degree
+Female,Straight,21,Asian,Normal weight,True,True,No,5,True,Bachelor’s degree
+Male,Straight,24,Black,Normal weight,True,True,Yes and I have,5,True,"Some college, no degree"
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,Yes but I haven't,5,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Bisexual,12,helicopterkin,Obese,True,True,No,15,True,"Some high school, no diploma"
+Female,Straight,23,White non-Hispanic,Normal weight,True,True,No,3,True,Bachelor’s degree
+Male,Straight,29,Black,Overweight,True,True,Yes but I haven't,6,True,"Some college, no degree"
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,Yes and I have,20,True,Bachelor’s degree
+Male,Straight,30,White non-Hispanic,Underweight,True,True,No,1,True,Doctorate degree
+Male,Straight,21,White non-Hispanic,Normal weight,True,True,No,3,True,"Some college, no degree"
+Male,Straight,18,Asian,Underweight,True,True,Yes but I haven't,3,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,22,Hispanic (of any race),Overweight,True,True,Yes but I haven't,2,True,Associate degree
+Male,Straight,22,White non-Hispanic,Overweight,True,True,No,3,True,"Some college, no degree"
+Male,Straight,26,White non-Hispanic,Overweight,True,True,Yes but I haven't,1,True,Associate degree
+Male,Straight,20,Hispanic (of any race),Overweight,True,True,No,1,True,"Some college, no degree"
+Male,Straight,17,Hispanic (of any race),Normal weight,True,True,No,6,True,"Some high school, no diploma"
+Male,Straight,20,White non-Hispanic,Underweight,True,True,No,1,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,28,Middle Eastern,Normal weight,True,True,No,10,True,Bachelor’s degree
+Male,Straight,36,Asian,Normal weight,True,True,Yes and I have,80,True,Bachelor’s degree
+Female,Straight,26,White non-Hispanic,Obese,True,True,No,2,True,Bachelor’s degree
+Male,Straight,28,White non-Hispanic,Overweight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,21,Asian,Normal weight,True,True,No,1,True,Master’s degree
+Male,Straight,21,Asian,Normal weight,True,True,No,5,True,Bachelor’s degree
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,Yes but I haven't,1,True,Bachelor’s degree
+Male,Straight,23,White non-Hispanic,Underweight,True,True,No,0,True,Associate degree
+Male,Bisexual,23,White non-Hispanic,Normal weight,True,True,Yes but I haven't,10,True,"Some college, no degree"
+Male,Straight,28,White non-Hispanic,Normal weight,True,True,No,5,True,"Some high school, no diploma"
+Male,Straight,31,White non-Hispanic,Normal weight,True,True,No,0,True,"Some high school, no diploma"
+Male,Straight,19,Asian,Normal weight,True,True,No,1,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Gay/Lesbian,15,White non-Hispanic,Normal weight,True,True,No,0,True,"Some high school, no diploma"
+Male,Straight,26,Turkish,Overweight,True,True,No,3,True,Master’s degree
+Male,Straight,28,Asian,Overweight,True,True,No,10,True,Master’s degree
+Male,Straight,23,White non-Hispanic,Overweight,True,True,No,10,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Gay/Lesbian,26,White non-Hispanic,Overweight,True,True,No,0,True,Associate degree
+Male,Straight,27,White non-Hispanic,Normal weight,True,True,Yes and I have,15,True,Master’s degree
+Male,Straight,26,White non-Hispanic,Normal weight,True,True,Yes but I haven't,10,True,Bachelor’s degree
+Male,Straight,35,Asian,Normal weight,True,True,No,2,True,"Some college, no degree"
+Male,Straight,31,White non-Hispanic,Obese,True,True,No,3,True,"Some college, no degree"
+Male,Straight,57,White non-Hispanic,Normal weight,True,True,No,0,True,Trade/technical/vocational training
+Male,Straight,25,Hispanic (of any race),Normal weight,True,True,Yes and I have,0,True,Bachelor’s degree
+Male,Straight,25,White non-Hispanic,Normal weight,True,True,No,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Gay/Lesbian,25,White non-Hispanic,Overweight,True,True,No,6,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Bisexual,22,White non-Hispanic,Normal weight,True,True,No,0,True,"Some college, no degree"
+Female,Straight,23,Asian,Underweight,True,True,No,0,True,Bachelor’s degree
+Female,Straight,21,White non-Hispanic,Normal weight,True,True,No,16,True,Associate degree
+Male,Straight,33,White non-Hispanic,Normal weight,True,True,No,1,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,18,Asian,Normal weight,True,True,No,5,True,"Some college, no degree"
+Male,Straight,27,White non-Hispanic,Underweight,True,True,No,1,True,Bachelor’s degree
+Male,Straight,21,White non-Hispanic,Overweight,True,True,Yes but I haven't,1,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,20,White non-Hispanic,Normal weight,True,True,Yes and I have,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,No,0,True,Bachelor’s degree
+Male,Straight,29,Asian,Obese,True,True,Yes but I haven't,0,True,Bachelor’s degree
+Male,Straight,23,Asian,Normal weight,True,True,Yes but I haven't,2,True,Bachelor’s degree
+Female,Straight,26,White non-Hispanic,Overweight,True,True,Yes but I haven't,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,22,White non-Hispanic,Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,23,Indian,Underweight,True,True,Yes but I haven't,3,True,Bachelor’s degree
+Male,Straight,27,White non-Hispanic,Overweight,True,True,Yes but I haven't,6,True,"Some high school, no diploma"
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,No,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,28,White non-Hispanic,Normal weight,True,True,Yes but I haven't,3,True,Master’s degree
+Male,Straight,19,White non-Hispanic,Overweight,True,True,Yes but I haven't,10,True,Trade/technical/vocational training
+Male,Straight,24,Black,Underweight,True,True,Yes but I haven't,4,True,Bachelor’s degree
+Male,Straight,25,White non-Hispanic,Normal weight,True,True,Yes but I haven't,30,True,Bachelor’s degree
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,27,White non-Hispanic,Underweight,True,True,No,13,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Gay/Lesbian,35,Black,Obese,True,True,No,3,True,"Some college, no degree"
+Male,Straight,19,White non-Hispanic,Normal weight,True,True,No,6,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Bisexual,21,White non-Hispanic,Normal weight,True,True,No,7,True,Bachelor’s degree
+Female,Straight,30,White non-Hispanic,Overweight,True,True,Yes but I haven't,0,True,Bachelor’s degree
+Male,Straight,18,Native american,Normal weight,True,True,Yes but I haven't,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Bisexual,27,White non-Hispanic,Normal weight,True,True,No,10,True,Bachelor’s degree
+Male,Straight,35,White non-Hispanic,Normal weight,True,True,Yes but I haven't,4,True,"Some college, no degree"
+Male,Straight,28,White non-Hispanic,Normal weight,True,True,No,15,True,Bachelor’s degree
+Female,Straight,28,White non-Hispanic,Overweight,True,True,No,20,True,Master’s degree
+Male,Straight,19,White non-Hispanic,Normal weight,True,True,Yes but I haven't,3,True,"Some high school, no diploma"
+Female,Straight,29,White non-Hispanic,Normal weight,True,True,No,5,True,Associate degree
+Male,Straight,29,White non-Hispanic,Normal weight,True,True,No,7,True,Bachelor’s degree
+Male,Straight,22,White non-Hispanic,Normal weight,True,True,No,1,True,"Some college, no degree"
+Male,Straight,24,White non-Hispanic,Overweight,True,True,Yes but I haven't,1,True,"Some college, no degree"
+Male,Straight,20,Black,Normal weight,True,True,No,10,True,"Some college, no degree"
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,No,4,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,22,White non-Hispanic,Normal weight,True,True,No,0,True,Bachelor’s degree
+Male,Straight,17,White non-Hispanic,Normal weight,True,True,Yes but I haven't,10,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,19,White non-Hispanic,Normal weight,True,True,Yes but I haven't,1,True,"Some high school, no diploma"
+Male,Straight,24,White non-Hispanic,Overweight,True,True,Yes but I haven't,1,True,Bachelor’s degree
+Male,Straight,31,White non-Hispanic,Overweight,True,True,Yes but I haven't,3,True,"Some college, no degree"
+Male,Straight,22,White non-Hispanic,Normal weight,True,True,Yes but I haven't,8,True,Bachelor’s degree
+Male,Straight,24,Asian,Overweight,True,True,Yes and I have,3,True,Bachelor’s degree
+Male,Straight,31,White non-Hispanic,Normal weight,True,True,No,2,True,"Some college, no degree"
+Male,Straight,22,Asian,Normal weight,True,True,Yes and I have,3,True,Bachelor’s degree
+Male,Straight,20,White non-Hispanic,Normal weight,True,True,No,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Straight,27,White non-Hispanic,Overweight,True,True,No,1,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,24,Black,Overweight,True,True,Yes but I haven't,6,True,Bachelor’s degree
+Male,Straight,26,White non-Hispanic,Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,22,Asian,Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,26,White non-Hispanic,Overweight,True,True,No,4,True,Bachelor’s degree
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,No,0,True,Associate degree
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,Yes but I haven't,20,True,Master’s degree
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,6,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,22,Black,Normal weight,True,True,No,5,True,"Some college, no degree"
+Male,Straight,22,White non-Hispanic,Normal weight,True,True,No,15,True,"Some college, no degree"
+Male,Straight,19,White non-Hispanic,Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,18,Asian,Normal weight,True,True,Yes but I haven't,0,True,"Some college, no degree"
+Male,Straight,21,Indian,Normal weight,True,True,Yes but I haven't,10,True,Bachelor’s degree
+Male,Straight,31,Mixed,Overweight,True,True,Yes but I haven't,3,True,"Some college, no degree"
+Male,Bisexual,25,White non-Hispanic,Underweight,True,True,No,28,True,Bachelor’s degree
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,No,4,True,Bachelor’s degree
+Male,Straight,27,White non-Hispanic,Normal weight,True,True,No,10,True,Bachelor’s degree
+Male,Straight,19,White non-Hispanic,Obese,True,True,No,0,True,"Some college, no degree"
+Male,Straight,20,White non-Hispanic,Underweight,True,True,No,2,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Bisexual,20,White non-Hispanic,Underweight,True,True,Yes but I haven't,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,26,White non-Hispanic,Overweight,True,True,No,3,True,"Some high school, no diploma"
+Male,Straight,31,White non-Hispanic,Normal weight,True,True,No,100,True,Bachelor’s degree
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,3,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,22,White non-Hispanic,Overweight,True,True,Yes but I haven't,4,True,Trade/technical/vocational training
+Male,Bisexual,28,White non-Hispanic,Overweight,True,True,No,10,True,Bachelor’s degree
+Male,Straight,24,White non-Hispanic,Overweight,True,True,No,1,True,Bachelor’s degree
+Male,Straight,26,White non-Hispanic,Obese,True,True,Yes and I have,0,True,Bachelor’s degree
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,Yes but I haven't,5,True,Bachelor’s degree
+Female,Straight,27,White non-Hispanic,Normal weight,True,True,No,4,True,Doctorate degree
+Male,Straight,33,White non-Hispanic,Normal weight,True,True,Yes but I haven't,0,True,Bachelor’s degree
+Female,Straight,26,Mixed,Normal weight,True,True,No,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,30,White non-Hispanic,Normal weight,True,True,No,3,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,24,White non-Hispanic,Obese,True,True,Yes but I haven't,2,True,Associate degree
+Male,Straight,44,White non-Hispanic,Normal weight,True,True,Yes but I haven't,12,True,Bachelor’s degree
+Male,Straight,27,White non-Hispanic,Overweight,True,True,No,7,True,Bachelor’s degree
+Male,Straight,27,White non-Hispanic,Obese,True,True,No,5,True,Bachelor’s degree
+Male,Straight,32,Asian,Normal weight,True,True,Yes and I have,10,True,"Some college, no degree"
+Male,Straight,27,White non-Hispanic,Normal weight,True,True,No,0,True,Master’s degree
+Male,Straight,20,White non-Hispanic,Normal weight,True,True,No,0,True,Bachelor’s degree
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,5,True,"Some college, no degree"
+Male,Straight,22,White non-Hispanic,Normal weight,True,True,No,1,True,"Some high school, no diploma"
+Male,Straight,26,White non-Hispanic,Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,22,Black,Normal weight,True,True,No,25,True,"Some college, no degree"
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,No,1,True,Associate degree
+Female,Bisexual,41,White non-Hispanic,Overweight,True,True,No,1,True,"Some college, no degree"
+Male,Straight,28,Asian,Normal weight,True,True,Yes and I have,4,True,Professional degree
+Male,Straight,29,Asian,Overweight,True,True,Yes but I haven't,8,True,Bachelor’s degree
+Female,Straight,19,White non-Hispanic,Normal weight,True,True,No,2,True,"Some college, no degree"
+Male,Straight,21,White non-Hispanic,Overweight,True,True,No,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,19,Asian,Normal weight,True,True,No,20,True,Bachelor’s degree
+Male,Straight,19,White non-Hispanic,Underweight,True,True,No,1,True,"Some college, no degree"
+Male,Straight,20,Hispanic (of any race),Normal weight,True,True,Yes and I have,7,True,"Some college, no degree"
+Male,Straight,22,White non-Hispanic,Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,20,White non-Hispanic,Overweight,True,True,Yes but I haven't,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Bisexual,25,White non-Hispanic,Normal weight,True,True,Yes but I haven't,7,True,"Some college, no degree"
+Male,Straight,30,Mixed white/asian,Overweight,True,True,No,4,True,Master’s degree
+Male,Straight,30,White non-Hispanic,Normal weight,True,True,Yes but I haven't,6,True,Bachelor’s degree
+Male,Straight,22,Mixed,Normal weight,True,True,No,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,26,White non-Hispanic,Normal weight,True,True,No,3,True,Bachelor’s degree
+Male,Straight,36,White non-Hispanic,Obese,True,True,Yes but I haven't,0,True,"Some college, no degree"
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,No,8,True,Bachelor’s degree
+Male,Bisexual,16,White non-Hispanic,Underweight,True,True,Yes but I haven't,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Straight,25,Asian,Normal weight,True,True,No,20,True,Bachelor’s degree
+Female,Straight,37,Asian,Normal weight,True,True,No,1,True,Bachelor’s degree
+Male,Straight,24,White non-Hispanic,Underweight,True,True,No,2,True,"Some college, no degree"
+Male,Straight,21,Indian,Overweight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,18,White non-Hispanic,Overweight,True,True,Yes but I haven't,4,True,"Some high school, no diploma"
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,No,20,True,Bachelor’s degree
+Male,Straight,29,Asian,Overweight,True,True,No,0,True,"Some high school, no diploma"
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,12,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,20,True,"Some high school, no diploma"
+Male,Straight,21,White non-Hispanic,Underweight,True,True,No,2,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,18,Asian,Normal weight,True,True,No,8,True,"Some college, no degree"
+Male,Straight,20,White non-Hispanic,Normal weight,True,True,Yes but I haven't,10,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,39,Asian,Normal weight,True,True,Yes but I haven't,10,True,"Some college, no degree"
+Male,Straight,30,Multi,Normal weight,True,True,Yes and I have,15,True,Master’s degree
+Male,Bisexual,19,White non-Hispanic,Overweight,True,True,No,1,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,19,White non-Hispanic,Normal weight,True,True,No,20,True,"Some college, no degree"
+Male,Straight,26,Asian,Normal weight,True,True,No,60,True,Bachelor’s degree
+Male,Straight,22,White non-Hispanic,Obese,True,True,No,600,True,"Some college, no degree"
+Male,Straight,23,White non-Hispanic,Underweight,True,True,No,0,True,Trade/technical/vocational training
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,0,True,"Some high school, no diploma"
+Male,Straight,15,Hispanic (of any race),Overweight,True,True,Yes but I haven't,5,True,"Some high school, no diploma"
+Male,Straight,22,White non-Hispanic,Underweight,True,True,No,1,True,"Some college, no degree"
+Male,Straight,26,White non-Hispanic,Overweight,True,True,No,1,True,Bachelor’s degree
+Male,Straight,30,White non-Hispanic,Overweight,True,True,Yes and I have,5,True,Bachelor’s degree
+Male,Straight,38,White non-Hispanic,Overweight,True,True,Yes but I haven't,7,True,Trade/technical/vocational training
+Male,Straight,22,White non-Hispanic,Overweight,True,True,No,10,True,"Some college, no degree"
+Female,Straight,20,Black,Normal weight,True,True,No,2,True,Bachelor’s degree
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,No,1,True,"Some high school, no diploma"
+Male,Straight,31,White non-Hispanic,Normal weight,True,True,No,30,True,Master’s degree
+Male,Straight,20,White non-Hispanic,Normal weight,True,True,No,20,True,"Some college, no degree"
+Male,Straight,21,White non-Hispanic,Overweight,True,True,Yes but I haven't,2,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,23,White non-Hispanic,Overweight,True,True,No,3,True,"Some college, no degree"
+Male,Straight,20,White non-Hispanic,Normal weight,True,True,No,5,True,Associate degree
+Female,Straight,27,Hispanic (of any race),Normal weight,True,True,No,3,True,Bachelor’s degree
+Male,Straight,30,White non-Hispanic,Obese,True,True,No,0,True,"Some college, no degree"
+Male,Straight,23,Asian,Overweight,True,True,Yes but I haven't,4,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,25,Native American mix,Overweight,True,True,Yes but I haven't,6,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Straight,22,White non-Hispanic,Normal weight,True,True,No,0,True,Master’s degree
+Male,Straight,20,White non-Hispanic,Normal weight,True,True,No,6,True,Bachelor’s degree
+Female,Straight,24,Hispanic (of any race),Overweight,True,True,No,10,True,Bachelor’s degree
+Male,Straight,19,White non-Hispanic,Normal weight,True,True,No,10,True,"Some college, no degree"
+Female,Bisexual,21,Hispanic (of any race),Overweight,True,True,Yes but I haven't,2,True,"Some college, no degree"
+Male,Straight,20,White non-Hispanic,Overweight,True,True,Yes but I haven't,5,True,"Some college, no degree"
+Female,Bisexual,23,Black,Normal weight,True,True,No,3,True,Master’s degree
+Male,Straight,22,White non-Hispanic,Normal weight,True,True,No,3,True,Associate degree
+Male,Straight,18,White non-Hispanic,Overweight,True,True,No,5,True,"Some high school, no diploma"
+Female,Straight,20,White non-Hispanic,Normal weight,True,True,No,2,True,"Some college, no degree"
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,No,0,True,Bachelor’s degree
+Female,Bisexual,21,Asian,Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,18,White non-Hispanic,Underweight,True,True,No,5,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Bisexual,20,White non-Hispanic,Normal weight,True,True,No,15,True,Bachelor’s degree
+Male,Straight,20,Hispanic (of any race),Overweight,True,True,Yes but I haven't,4,True,"Some college, no degree"
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,3,True,"Some college, no degree"
+Male,Straight,25,White non-Hispanic,Normal weight,True,True,Yes and I have,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,Yes and I have,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Bisexual,20,White non-Hispanic,Obese,True,True,No,1,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,22,White non-Hispanic,Normal weight,True,True,No,5,True,Trade/technical/vocational training
+Male,Gay/Lesbian,21,White non-Hispanic,Normal weight,True,True,No,3,True,"Some college, no degree"
+Male,Straight,39,White non-Hispanic,Normal weight,True,True,No,5,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,20,White non-Hispanic,Overweight,True,True,Yes and I have,1,True,"Some high school, no diploma"
+Female,Straight,23,Asian,Normal weight,True,True,No,5,True,Bachelor’s degree
+Male,Straight,30,White non-Hispanic,Normal weight,True,True,No,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,25,Asian,Overweight,True,True,No,7,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,2,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,19,White non-Hispanic,Overweight,True,True,No,4,True,"Some college, no degree"
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,20,True,"Some college, no degree"
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,No,7,True,Bachelor’s degree
+Male,Straight,28,White non-Hispanic,Obese,True,True,No,4,True,"Some college, no degree"
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,6,True,"Some high school, no diploma"
+Male,Straight,21,North African,Normal weight,True,True,No,0,True,Master’s degree
+Female,Bisexual,30,White non-Hispanic,Normal weight,True,True,Yes but I haven't,2,True,Bachelor’s degree
+Male,Straight,21,White non-Hispanic,Normal weight,True,True,No,2,True,Associate degree
+Male,Bisexual,21,Asian,Normal weight,True,True,No,3,True,"Some college, no degree"
+Male,Straight,14,Half Asian half white,Normal weight,True,True,Yes but I haven't,1,True,"Some high school, no diploma"
+Male,Straight,22,White non-Hispanic,Normal weight,True,True,Yes but I haven't,1,True,Trade/technical/vocational training
+Male,Straight,33,White non-Hispanic,Overweight,True,True,Yes but I haven't,1,True,"Some college, no degree"
+Male,Straight,24,Asian,Normal weight,True,True,No,13,True,Bachelor’s degree
+Male,Straight,17,White non-Hispanic,Normal weight,True,True,No,5,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Bisexual,28,White non-Hispanic,Obese,True,True,Yes but I haven't,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,0,True,"Some high school, no diploma"
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,1,True,"Some high school, no diploma"
+Male,Straight,27,White non-Hispanic,Overweight,True,True,Yes but I haven't,2,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,18,Asian,Underweight,True,True,No,7,True,"Some college, no degree"
+Male,Straight,48,White non-Hispanic,Normal weight,True,True,Yes but I haven't,0,True,Master’s degree
+Male,Straight,29,White non-Hispanic,Normal weight,True,True,No,40,True,Bachelor’s degree
+Male,Straight,20,Asian,Underweight,True,True,Yes but I haven't,2,True,Bachelor’s degree
+Male,Straight,20,White non-Hispanic,Underweight,True,True,Yes but I haven't,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,20,White non-Hispanic,Underweight,True,True,Yes but I haven't,0,True,"Some college, no degree"
+Male,Straight,20,White non-Hispanic,Underweight,True,True,Yes but I haven't,0,True,"Some college, no degree"
+Male,Straight,18,White non-Hispanic,Overweight,True,True,No,30,True,"Some high school, no diploma"
+Male,Straight,19,White non-Hispanic,Normal weight,True,True,Yes but I haven't,1,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Straight,25,White non-Hispanic,Normal weight,True,True,No,8,True,"Some college, no degree"
+Male,Straight,25,Mixed,Normal weight,True,True,No,12,True,Master’s degree
+Male,Bisexual,21,White non-Hispanic,Underweight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,20,White non-Hispanic,Overweight,True,True,No,6,True,"Some college, no degree"
+Female,Straight,23,Black,Overweight,True,True,No,15,True,"Some college, no degree"
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,Yes but I haven't,1,True,"Some college, no degree"
+Male,Straight,42,White non-Hispanic,Overweight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,32,White non-Hispanic,Normal weight,True,True,No,5,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,21,White non-Hispanic,Overweight,True,True,No,2,True,"Some college, no degree"
+Male,Straight,21,Black,Normal weight,True,True,No,0,True,"Some high school, no diploma"
+Female,Bisexual,21,Hispanic (of any race),Normal weight,True,True,No,3,True,Bachelor’s degree
+Male,Straight,16,Hispanic (of any race),Normal weight,True,True,Yes but I haven't,0,True,"Some high school, no diploma"
+Male,Straight,38,White non-Hispanic,Underweight,True,True,No,0,True,Bachelor’s degree
+Female,Gay/Lesbian,20,White non-Hispanic,Normal weight,True,True,No,2,True,Bachelor’s degree
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,Yes but I haven't,5,True,Master’s degree
+Male,Straight,22,White non-Hispanic,Overweight,True,True,Yes and I have,2,True,"Some college, no degree"
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,5,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,18,White non-Hispanic,Underweight,True,True,No,12,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,23,Asian,Normal weight,True,True,Yes but I haven't,4,True,Professional degree
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,Yes but I haven't,2,True,Master’s degree
+Male,Straight,21,Asian,Normal weight,True,True,No,9,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Bisexual,24,White and Native American,Obese,True,True,Yes but I haven't,3,True,"Some high school, no diploma"
+Male,Straight,22,White non-Hispanic,Underweight,True,True,No,0,True,"Some college, no degree"
+Female,Straight,17,White non-Hispanic,Overweight,True,True,No,10,True,"Some high school, no diploma"
+Male,Bisexual,34,White non-Hispanic,Obese,True,True,Yes but I haven't,2,True,"Some college, no degree"
+Androgyne,Asexual,26,,Normal weight,True,True,No,0,True,Bachelor’s degree
+Male,Straight,27,White non-Hispanic,Obese,True,True,No,1,True,Master’s degree
+Male,Straight,19,White non-Hispanic,Overweight,True,True,Yes but I haven't,3,True,"Some high school, no diploma"
+Male,Straight,15,White non-Hispanic,Underweight,True,True,Yes but I haven't,1,True,"Some high school, no diploma"
+Male,Straight,31,White non-Hispanic,Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,17,White non-Hispanic,Overweight,True,True,No,3,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,22,White non-Hispanic,Normal weight,True,True,Yes but I haven't,0,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Straight,21,Asian,Underweight,True,True,No,1,True,"Some college, no degree"
+Female,Bisexual,19,White non-Hispanic,Normal weight,True,True,No,1,True,"Some high school, no diploma"
+Male,Bisexual,26,European,Underweight,True,True,No,0,True,"Some high school, no diploma"
+Male,Straight,24,White non-Hispanic,Underweight,True,True,Yes but I haven't,4,True,"Some college, no degree"
+Male,Straight,18,White non-Hispanic,Underweight,True,True,No,0,True,"Some high school, no diploma"
+Transgender female,Straight,25,White non-Hispanic,Normal weight,True,True,No,5,True,"Some college, no degree"
+Male,Straight,23,White non-Hispanic,Underweight,True,True,Yes but I haven't,0,True,"Some college, no degree"
+Male,Straight,25,White non-Hispanic,Normal weight,True,True,No,20,True,Associate degree
+Male,Bisexual,33,White non-Hispanic,Normal weight,True,True,No,25,True,"Some college, no degree"
+Female,Straight,21,White non-Hispanic,Normal weight,True,True,No,4,True,"Some college, no degree"
+Female,Straight,30,White non-Hispanic,Normal weight,True,True,No,12,True,"Some college, no degree"
+Male,Straight,22,Black,Overweight,True,True,Yes but I haven't,2,True,Associate degree
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,No,0,True,"Some college, no degree"
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,1,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Bisexual,37,Hispanic (of any race),Obese,True,True,No,400,True,"Some college, no degree"
+Male,Straight,26,Hispanic (of any race),Normal weight,True,True,No,1,True,Associate degree
+Male,Straight,21,White non-Hispanic,Overweight,True,True,No,3,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,26,Hispanic (of any race),Normal weight,True,True,Yes but I haven't,0,True,"Some high school, no diploma"
+Female,Straight,20,White non-Hispanic,Normal weight,True,True,No,2,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Straight,23,White non-Hispanic,Normal weight,True,True,No,2,True,Bachelor’s degree
+Male,Bisexual,26,Hispanic (of any race),Normal weight,True,True,No,15,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,16,White non-Hispanic,Underweight,True,True,No,0,True,"Some high school, no diploma"
+Male,Straight,24,White non-Hispanic,Overweight,True,True,No,6,True,"Some college, no degree"
+Male,Straight,22,Hispanic (of any race),Overweight,True,True,No,0,True,"Some college, no degree"
+Female,Bisexual,20,Black,Normal weight,True,True,No,3,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,25,White non-Hispanic,Normal weight,True,True,No,0,True,Associate degree
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,Yes but I haven't,0,True,"Some college, no degree"
+Male,Straight,25,White non-Hispanic,Overweight,True,True,No,3,True,Professional degree
+Male,Straight,27,White non-Hispanic,Overweight,True,True,No,5,True,"Some high school, no diploma"
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,No,10,True,Bachelor’s degree
+Female,Straight,25,White non-Hispanic,Normal weight,True,True,No,2,True,Bachelor’s degree
+Male,Straight,22,Black,Normal weight,True,True,No,15,True,"Some college, no degree"
+Male,Straight,23,White non-Hispanic,Normal weight,True,True,No,2,True,"Some college, no degree"
+Female,Straight,21,Black,Overweight,True,True,No,0,True,"Some college, no degree"
+Female,Straight,31,White non-Hispanic,Overweight,True,True,No,30,True,Master’s degree
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,2,True,"Some high school, no diploma"
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,No,30,True,Bachelor’s degree
+Male,Straight,24,White non-Hispanic,Normal weight,True,True,No,11,True,"Some high school, no diploma"
+Male,Bisexual,23,White non-Hispanic,Overweight,True,True,No,10,True,Bachelor’s degree
+Male,Straight,28,Black,Normal weight,True,True,No,1,True,Bachelor’s degree
+Male,Straight,18,Asian,Overweight,True,True,Yes but I haven't,5,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,18,White non-Hispanic,Normal weight,True,True,Yes but I haven't,6,True,"Some high school, no diploma"
+Transgender male,Bisexual,12,White non-Hispanic,Obese,True,True,Yes and I have,0,True,"Some high school, no diploma"
+Female,Straight,26,White non-Hispanic,Overweight,True,True,Yes but I haven't,10,True,Master’s degree
+Male,Straight,31,White non-Hispanic,Normal weight,True,True,Yes but I haven't,10,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Female,Straight,17,Asian,Normal weight,True,True,No,20,True,"Some high school, no diploma"
+Male,Straight,18,Asian,Obese,True,True,No,16,True,"High school graduate, diploma or the equivalent (for example: GED)"
+Male,Straight,28,White non-Hispanic,Normal weight,True,True,Yes but I haven't,3,True,Master’s degree
